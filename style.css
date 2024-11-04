@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-image: url(./bmw.jpeg);
     background-position: center center;
@@ -13,3 +14,32 @@ button{
     position: absolute;
     
 }
+=======
+.input-group-text{
+    font-size: 10ram;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 64ec9de18d09c72503596d0020801dac994a5815
