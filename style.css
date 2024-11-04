@@ -1,0 +1,15 @@
+body{
+    background-image: url(./bmw.jpeg);
+    background-position: center center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container-fluid{
+    border: 10px;
+}
+button{
+    color: blue;
+    position: absolute;
+    
+}
